@@ -14,6 +14,8 @@ We provide a convenient way to join us and contribute Hooks!
 ## Packages
  
  - [@use-hooks/axios](https://github.com/use-hooks/react-hooks-axios) - Custom React Hooks for Axios.js
+ - [@use-hooks/image-size](https://github.com/use-hooks/react-hooks-image-size) - Custom React Hooks for image natural size
+ - [@use-hooks/video-meta](https://github.com/use-hooks/react-hooks-video-meta) - Custom React Hooks for video meta
  
 ## Backers && Sponsors
  
