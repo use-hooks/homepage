@@ -1,5 +1,3 @@
-# Welcome to Use Hooks
-
 Use Hooks(use-hooks) is a collection of reusable React Hooks. All packages are published to [npmjs](https://www.npmjs.com/settings/use-hooks/packages) and maintained in [use-hooks](https://github.com/use-hooks).
 
 ## Join Us
