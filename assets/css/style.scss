@@ -1,7 +1,24 @@
 ---
 ---
 
-$header-bg-color-secondary: red;
-$header-bg-color: green;
+$header-bg-color-secondary: #f2e16b;
+$header-bg-color: #323330;
+$section-headings-color: 
+
 
 @import 'jekyll-theme-cayman';
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: normal;
+  background: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
