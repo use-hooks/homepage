@@ -1,3 +1,3 @@
-# Home Page of Use Hooks
+# Use Hooks
 
-:-)
+[Home Page](https://use-hooks.org)
