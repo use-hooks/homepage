@@ -11,10 +11,10 @@ We provide a convenient way to join us and contribute Hooks!
  - Use [create-react-hooks](https://github.com/use-hooks/create-react-hooks) to create Hooks.
  - After code review, we then add publish permission of [npmjs](https://www.npmjs.com/settings/use-hooks/packages).
  
- ## Packages
+## Packages
  
-  - [@use-hooks/axios](https://github.com/use-hooks/react-hooks-axios) - Custom React Hooks for Axios.js
+ - [@use-hooks/axios](https://github.com/use-hooks/react-hooks-axios) - Custom React Hooks for Axios.js
  
- ## Credits
+## Credits
  
- Thanks the support of [ES2049 Studio](https://es2049.studio/).
+Thanks the support of [ES2049 Studio](https://es2049.studio/).
