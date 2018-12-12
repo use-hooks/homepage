@@ -20,3 +20,12 @@ h5,
 h6 {
   color: $body-text-color;
 }
+
+a {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid #999;
+  &:hover {
+    text-decoration: none;
+  }
+}
