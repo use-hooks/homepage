@@ -7,15 +7,15 @@ $header-bg-color: #323330;
 
 @import 'jekyll-theme-cayman';
 
-h2,
-h3,
-h4,
-h5,
-h6 {
-  margin-top: 2rem;
-  margin-bottom: 1rem;
-  font-weight: normal;
-  background: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+.main-content {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    background: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
 }
