@@ -2,7 +2,7 @@
 
 Use Hooks(use-hooks) is a collection of reusable React Hooks. All packages are published to [npmjs](https://www.npmjs.com/settings/use-hooks/packages) and maintained in [use-hooks](https://github.com/use-hooks).
 
-## Join us
+## Join Us
 
 We provide a convenient way to join us and contribute Hooks!
 
@@ -15,6 +15,6 @@ We provide a convenient way to join us and contribute Hooks!
  
  - [@use-hooks/axios](https://github.com/use-hooks/react-hooks-axios) - Custom React Hooks for Axios.js
  
-## Credits
+## Backers && Sponsors
  
 Thanks the support of [ES2049 Studio](https://es2049.studio/).
