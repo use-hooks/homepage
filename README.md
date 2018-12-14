@@ -1,3 +1,3 @@
 # Use Hooks
 
-[Home Page](https://use-hooks.org)
+> Hi, We need a logo, if you have any idea, feel free to raise an issue, thanks a lot!
