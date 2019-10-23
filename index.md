@@ -14,7 +14,8 @@ We provide a convenient way to join us and contribute Hooks!
  - [@use-hooks/axios](https://github.com/use-hooks/react-hooks-axios) - Custom React Hooks for Axios.js
  - [@use-hooks/image-size](https://github.com/use-hooks/react-hooks-image-size) - Custom React Hooks for image natural size
  - [@use-hooks/video-meta](https://github.com/use-hooks/react-hooks-video-meta) - Custom React Hooks for video meta
+ - [...more](https://github.com/use-hooks?utf8=%E2%9C%93&q=react-hooks-&type=&language=)
  
 ## Backers && Sponsors
  
-Thanks the support of [ES2049 Studio](https://es2049.studio/).
+Thanks the support of [SVRX Team](https://github.com/svrxjs).
